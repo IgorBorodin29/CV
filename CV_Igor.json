@@ -1,0 +1,130 @@
+{
+   "firstName":"Igor",
+   "lastName":"Borodin",
+   "education":[
+      {
+         "name":"Minsk State Energy College",
+         "graduationYear":2012,
+         "specialization":"Electric stations"
+      },
+      {
+         "name":"BNTU",
+         "graduationYear":2020,
+         "specialization":"Electrosupply"
+      }
+   ],
+   "workExperience":[
+      {
+         "name":"State Enterprise Minsk Metro",
+         "working position":"Electrician",
+         "work time":"2016-2019",
+         "responsibilities":[
+            "electrical installation",
+            "repair and maintenance of equipment",
+            "reading and drawing up drawings and diagrams"
+         ]
+      },
+      {
+         "name":"OJSC MAP",
+         "working position":"Design Engineer",
+         "work time":"2019-2021",
+         "responsibilities":[
+            "development of project electrical documentation",
+            "technical calculations"
+         ]
+      },
+      {
+         "name":"Foreign enterprise Printcorp",
+         "working position":"Chief Power Engineer",
+         "work time":"2021-2023",
+         "responsibilities":[
+            "organization of technically correct operation and timely repair of equipment",
+            "personnel management",
+            "accounting and control of water, heat and electricity consumption",
+            "analysis of the causes of equipment failures"
+         ]
+      },
+      {
+         "name":"The Island Of Purity And Taste",
+         "working position":"Energy Engineer",
+         "work time":"2023-2024",
+         "responsibilities":[
+            "organization of technically correct operation and timely repair of equipment",
+            "personnel management (making business trips, setting tasks, conducting briefings, etc.)",
+            "implementation of technical supervision of devices used at retail facilities",
+            "preparation of facilities for the autumn-winter period (OSP)"
+         ]
+      },
+      {
+         "name":"OJSC Optron",
+         "working position":"Energy Engineer",
+         "work time":"2024-until now",
+         "responsibilities":[
+            "organization of technically correct operation and timely repair of equipment",
+            "personnel management",
+            "implementation of technical supervision of devices used at retail facilities",
+            "preparation of facilities for the autumn-winter period (OSP)",
+            "working with documentation"
+         ]
+      }
+   ],
+   "location":"Minsk",
+   "hobbies":[
+      "sport",
+      "reading",
+      "foreign languages",
+      "active leisure"
+   ],
+   "softskills":[
+      "responsibility",
+      "achieving the set goals",
+      "ability to work in a team",
+      "striving for self-development"
+   ],
+   "hardskills":[
+      {
+         "name":"Checklist",
+         "level":"high",
+         "details":"creating a checklist for a fitness bracelet"
+      },
+      {
+         "name":"Requirements Testing",
+         "level":"high",
+         "details":"creating calculator requirements"
+      },
+      {
+         "name":"Test Design Techniques",
+         "level":"intermediate",
+         "details":"online bank card testing"
+      },
+      {
+         "name":"Test Case",
+         "level":"intermediate",
+         "link":"https://belhard-academy.testcaselab.com/projects/IBR/test_cases"
+      },
+      {
+         "name":"Bug Report",
+         "level":"intermediate",
+         "link":"https://app.clickup.com/9015563214/v/l/li/901504210676"
+      },
+      {
+         "name":"SQL",
+         "level":"intermediate",
+         "link":"https://github.com/IgorBorodin29/SQL"
+      }
+   ],
+   "courses":[
+      "Study Zone Educational Centre (Intermediate English)",
+      "BELHARD Academy (Software Testing Engineer. Basic level)"
+   ],
+   "contacts":[
+      {
+         "email":"igorb2907@gmail.com",
+         "phone number":80293109382
+      }
+   ],
+   "certificates":[
+      "Intermediate English",
+      "Software Testing Engineer. Basic level"
+   ]
+}
